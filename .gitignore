@@ -1,0 +1,4 @@
+*.xlsx
+*.yml
+.ipynb_checkpoints/
+pythonProject/
