@@ -1,2 +1,2 @@
 # wechat_article_scrapping
-Scrape wechat article
+This repository is used to crape wechat article.
